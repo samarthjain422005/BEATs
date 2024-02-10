@@ -1,4 +1,4 @@
-## Google Colab Examples
+## Google Colab Interface
 
 | Description               | Link  |
 |---------------------------|-------|
