@@ -1,5 +1,5 @@
-## Running the interface on Kaggle
+## Google Colab Examples
 
 | Description               | Link  |
 |---------------------------|-------|
-| Run Inference          | [![Open In Google Colab]([https://colab.research.google.com/drive/1mNq6obcZIFN3swMhdqjgrtsQv7wvdjqQ#scrollTo=wP-h8T66Sh7H]
+| Run Inference          | [![Open In Colab](https://colab.research.google.com/drive/1mNq6obcZIFN3swMhdqjgrtsQv7wvdjqQ?usp=sharing) |
